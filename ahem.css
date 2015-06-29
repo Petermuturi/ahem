@@ -1,0 +1,13 @@
+form, tr, td, {
+display: block;
+}
+
+html, body, form, tr, td, label, name, table{
+padding:0;
+margin:0;
+}
+.banner{
+background-color:#11233b;
+color:white;
+padding: 5px 15px;
+}
